@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="accentColor">#4463EE</color>
+    <color name="accentColorVariant">#3254EC</color>
+    <color name="accentColorOnContainer">#B0BCF1</color>
+    <color name="secondaryColor">#4895EF</color>
+    <color name="secondaryColorVariant">#3189ED</color>
+
+    <color name="textColor">#000000</color>
+    <color name="textColorDisabled">#303030</color>
+
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="secondBackgroundColor">#EEEEEE</color>
+
+    <color name="btnRemoveBgColor">#3342A5F5</color>
+    <color name="btnRemoveColor">#42a5f5</color>
+    <color name="btnAddBgColor">#3366bb6a</color>
+    <color name="btnAddColor">#66bb6a</color>
+    <color name="btnDeleteBgColor">#33ef5350</color>
+    <color name="btnDeleteColor">#ef5350</color>
+</resources>

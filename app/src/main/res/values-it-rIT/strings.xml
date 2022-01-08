@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopShop</string>
+    <string name="shopping_list_transition_name">shopping_list_transition_name</string>
+    <string name="shopping_list_fab_transition_name">shopping_list_fab_transition_name</string>
+    <string name="action_delete">Elimina</string>
+    <string name="unnamed_item">Oggetto senza nome</string>
+    <string name="unnamed_list">Lista senza nome</string>
+    <string name="text_more">…</string>
+    <string name="shopping_list_item_empty">La lista è vuota</string>
+    <string name="shopping_item_add_btn">Buttono per aggiungere oggetti</string>
+    <string name="shopping_item_add_text">Aggiungi un oggetto</string>
+    <string name="shopping_item_hint">Nome dell\'oggetto</string>
+    <string name="shopping_item_amount">0</string>
+    <string name="dialog_rename_icon">Icona per rinominare</string>
+    <string name="dialog_rename_title">Rinomina la lista</string>
+    <string name="dialog_rename_hint">Nome lista</string>
+    <string name="dialog_rename_save">Salva</string>
+    <string name="home_add_list">Aggiungi una lista</string>
+    <string name="dialog_delete_title">Eliminare questa lista?</string>
+    <string name="dialog_delete_text">Questa lista verra permanentemente eliminata</string>
+    <string name="dialog_delete_confirm">Elimina</string>
+    <string name="dialog_delete_cancel">Cancella</string>
+</resources>
